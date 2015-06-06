@@ -1,0 +1,33 @@
+{
+  "name": "arr-remove",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Remove elements from a copy of an array",
+  "license": "MIT",
+  "repository": "bendrucker/arr-remove",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "array",
+    "remove",
+    "splice"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
