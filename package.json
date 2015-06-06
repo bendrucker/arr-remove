@@ -1,7 +1,7 @@
 {
   "name": "arr-remove",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Remove elements from a copy of an array",
   "license": "MIT",
   "repository": "bendrucker/arr-remove",
