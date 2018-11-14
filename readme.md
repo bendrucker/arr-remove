@@ -1,4 +1,4 @@
-# arr-remove [![Build Status](https://travis-ci.org/bendrucker/arr-remove.svg?branch=master)](https://travis-ci.org/bendrucker/arr-remove)
+# arr-remove [![Build Status](https://travis-ci.org/bendrucker/arr-remove.svg?branch=master)](https://travis-ci.org/bendrucker/arr-remove) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/arr-remove.svg)](https://greenkeeper.io/)
 
 > Remove elements from a copy of an array
 
